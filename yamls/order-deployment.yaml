@@ -31,6 +31,6 @@ spec:
   selector:
     app: order
   ports:
-  - port: 8081
+  - port: 80
     targetPort: 8081
 
